@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NewScript:jar">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="NewScript.jar">
+      <element id="module-output" name="NewScript" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OSBot 2.5.45.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
